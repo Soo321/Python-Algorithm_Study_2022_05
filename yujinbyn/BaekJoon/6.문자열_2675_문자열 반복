@@ -6,3 +6,5 @@ for i in range(n):
     for j in S:
         x += int(R)*j 
     print(x)
+    
+# x라는 빈 문자열을 두고 추가한 방법이 신선하고 좋아요!! (최수빈)
